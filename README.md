@@ -1,0 +1,1 @@
+PGM image filters implementation in C. These image filters consist of gauss (various sized kernels and sigma values), sobel (x, y and both), and laplacian filters.
